@@ -8,5 +8,5 @@ final List<City> cities = [
   City(name: 'Абай', lat: 49.6302, lon: 72.8805),
   City(name: 'Алгабас', lat: 40.8001, lon: 68.3451),
   City(name: 'Атырау', lat: 47.1180, lon: 51.9705),
-  City(name: 'Зихуантанехо', lat: 17.6283, lon: 101.5617),
+  City(name: 'Сиуатанехо', lat: 17.6283, lon: 101.5617),
 ];
