@@ -1,6 +1,9 @@
 # weather_now
 
-A new Flutter project.
+Приложение для просмотра погоды
+Используется Open-Meteo API
+
+Волков Павел 9-2-ПО-22
 
 ## Getting Started
 
